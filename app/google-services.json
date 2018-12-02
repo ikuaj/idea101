@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "124964365906",
+    "firebase_url": "https://idea-18cda.firebaseio.com",
+    "project_id": "idea-18cda",
+    "storage_bucket": "idea-18cda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124964365906:android:503aea9c05773869",
+        "android_client_info": {
+          "package_name": "com.example.prideland.idea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124964365906-kkfl72gvd0jkhihrm11sbj6pa2vt7qcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJmHhb75M8qb5O7q0SLe1_kEPvbgp9x5w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

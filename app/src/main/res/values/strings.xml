@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">iDEA</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_Logout">Logout</string>
+    <string name="web_client_id">124964365906-kkfl72gvd0jkhihrm11sbj6pa2vt7qcb.apps.googleusercontent.com</string>
+    <string name="loading">loading.....</string>
+</resources>
